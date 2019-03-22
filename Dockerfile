@@ -48,7 +48,7 @@ RUN npm i -g npm@latest
 
 # Install Gulp.js globally
 
-RUN npm i -g gulp
+RUN npm i -g gulp@3.9.1
 
 # Install Shopify Themekit
 
